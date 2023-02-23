@@ -1,10 +1,13 @@
-### Olá eu sou Kauã Carlos 👋
+### Olá, eu sou Mateus Guilherme 👋
 
 
-- 🔭 
-- 🌱 
-- 📫 email pra contato:
-- ⚡ Fato engraçado:
+- 🔭 Tralho atualmente co programação WEB<br/>
+- 🌱 Possuo conhecimentos em: <br/>
+     °Linguagens: PHP, JS, HTML e CSS<br/>
+     °Freameworks: Bootstrap, JQuery e AJAX<br/>
+     °Composer <br/>
+     °Estruturas de linguagem: MVC<br/>
+- 📫 Email pra contato: matesguilive@gmail.com
 <div>
   <a href="https://github.com/aciolekaua">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusGSV&show_icons=true&theme=tokyonight&include_all_comits=true"  />
