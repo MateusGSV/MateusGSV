@@ -3,9 +3,9 @@
 
 - 🔭 Tralho atualmente co programação WEB<br/>
 - 🌱 Possuo conhecimentos em: <br/>
-     °Linguagens: PHP, JS, HTML e CSS<br/>
-     °Freameworks: Bootstrap, JQuery e AJAX<br/>
-     °Composer <br/>
+     °Linguagens: PHP, JS, HTML, CSS e Angular<br/>
+     °Freameworks: Bootstrap, JQuery, AJAX,Laravel e Ionic<br/>
+     °Composer<br/>
      °Estruturas de linguagem: MVC<br/>
 - 📫 Email pra contato: matesguilive@gmail.com
 <div>
